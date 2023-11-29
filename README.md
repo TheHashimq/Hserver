@@ -1,7 +1,7 @@
 # Hserver
 Simple web server made with c
 ### Required :
-- gcc (GNU compiler collection);
+- gcc (GNU compiler collection)
 - strace
 - wget
 
@@ -12,7 +12,7 @@ $ cd Hserver
 $ gcc main.c -o main
 ````
 
-#### Execut with strace
+#### Execute with strace
 
 ````bash
 $ strace ./main
